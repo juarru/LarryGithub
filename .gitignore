@@ -1,0 +1,27 @@
+# Esto es un comentario
+# OS X filesystem files
+.DS_Store
+
+#Windows filesystem files
+Thumbs.db
+
+#Compiled files
+*.exe
+*.class
+*.pyc
+*.o
+
+# Node modules
+node_modules
+
+
+#Android
+*.apk
+.idea/
+
+# Other
+*.zip
+!estearchivonoseignora.zip
+
+#html files
+*.html
